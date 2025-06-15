@@ -27,7 +27,9 @@ This project demonstrates an end-to-end AI-powered data automation workflow that
 - Extracts the CSV content from the email.
 - Parses and inserts the data into a Supabase PostgreSQL table using an HTTP or PostgreSQL node.
 
-> 📷 _Refer to `Screenshot 1` for visual of the n8n workflow_
+> 📷 _visual of the n8n workflow_
+
+![Screenshot 2025-06-15 031054](https://github.com/user-attachments/assets/8795a6e1-5090-46c5-9b66-b62b06ba38d5)
 
 ---
 
@@ -37,7 +39,9 @@ This project demonstrates an end-to-end AI-powered data automation workflow that
 - The table schema matches the incoming CSV structure (e.g., columns for date, sales, product, etc.).
 - n8n sends data into the Supabase DB in real time or on a schedule.
 
-> 📷 _Refer to `Screenshot 2` for the Supabase UI and table_
+> 📷 _Supabase UI and table_
+
+![Screenshot 2025-06-15 031137](https://github.com/user-attachments/assets/04b5be0d-d258-4396-96e9-414181ff3631)
 
 ---
 
@@ -47,7 +51,9 @@ This project demonstrates an end-to-end AI-powered data automation workflow that
 - Queries are written in the spreadsheet or using AI to summarize, visualize, and clean the data.
 - Acts as an AI-augmented BI layer for analysis.
 
-> 📷 _Refer to `Screenshot 3` for example of Quadratic interface_
+> 📷 _Quadratic interface_
+
+![Screenshot 2025-06-15 031252](https://github.com/user-attachments/assets/dd61513b-9add-425d-bc4e-6f0cb073c538)
 
 ---
 
